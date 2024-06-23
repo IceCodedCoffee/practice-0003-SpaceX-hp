@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-Italic.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Familjen Grotesk';
+    src: url('../assets/fonts/FamiljenGrotesk-BoldItalic.ttf ') format('truetype');
+    font-weight: 700;
+}
